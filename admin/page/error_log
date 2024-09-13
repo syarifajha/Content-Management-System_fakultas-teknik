@@ -1,0 +1,120 @@
+[30-Jun-2024 19:10:42 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 2
+[30-Jun-2024 19:10:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/index.php:1) in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 4
+[30-Jun-2024 19:10:42 UTC] PHP Warning:  Undefined variable $username in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 10
+[30-Jun-2024 19:17:12 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 17
+[30-Jun-2024 19:17:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 17
+[30-Jun-2024 19:17:12 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 18
+[30-Jun-2024 19:17:12 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 20
+[30-Jun-2024 19:17:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 20
+[30-Jun-2024 19:17:12 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 21
+[30-Jun-2024 19:17:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 21
+[30-Jun-2024 19:17:28 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 17
+[30-Jun-2024 19:17:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 17
+[30-Jun-2024 19:17:28 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 18
+[30-Jun-2024 19:17:28 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 20
+[30-Jun-2024 19:17:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 20
+[30-Jun-2024 19:17:28 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 21
+[30-Jun-2024 19:17:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 21
+[30-Jun-2024 19:17:35 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 17
+[30-Jun-2024 19:17:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 17
+[30-Jun-2024 19:17:35 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 18
+[30-Jun-2024 19:17:35 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 20
+[30-Jun-2024 19:17:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 20
+[30-Jun-2024 19:17:35 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 21
+[30-Jun-2024 19:17:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 21
+[30-Jun-2024 19:30:58 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 2
+[30-Jun-2024 19:30:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/index.php:1) in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 4
+[30-Jun-2024 19:30:58 UTC] PHP Warning:  Undefined variable $username in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 10
+[30-Jun-2024 19:31:16 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 17
+[30-Jun-2024 19:31:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 17
+[30-Jun-2024 19:31:16 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 18
+[30-Jun-2024 19:31:16 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 20
+[30-Jun-2024 19:31:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 20
+[30-Jun-2024 19:31:16 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 21
+[30-Jun-2024 19:31:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 21
+[30-Jun-2024 19:31:59 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 17
+[30-Jun-2024 19:31:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 17
+[30-Jun-2024 19:31:59 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 18
+[30-Jun-2024 19:31:59 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 20
+[30-Jun-2024 19:31:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 20
+[30-Jun-2024 19:31:59 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 21
+[30-Jun-2024 19:31:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 21
+[30-Jun-2024 19:32:58 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 17
+[30-Jun-2024 19:32:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 17
+[30-Jun-2024 19:32:58 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 18
+[30-Jun-2024 19:32:58 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 20
+[30-Jun-2024 19:32:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 20
+[30-Jun-2024 19:32:58 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 21
+[30-Jun-2024 19:32:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 21
+[30-Jun-2024 19:36:07 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 17
+[30-Jun-2024 19:36:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 17
+[30-Jun-2024 19:36:07 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 18
+[30-Jun-2024 19:36:07 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 20
+[30-Jun-2024 19:36:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 20
+[30-Jun-2024 19:36:07 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 21
+[30-Jun-2024 19:36:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 21
+[30-Jun-2024 19:36:23 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 17
+[30-Jun-2024 19:36:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 17
+[30-Jun-2024 19:36:23 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 18
+[30-Jun-2024 19:36:23 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 20
+[30-Jun-2024 19:36:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 20
+[30-Jun-2024 19:36:23 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 21
+[30-Jun-2024 19:36:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 21
+[30-Jun-2024 19:39:51 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 17
+[30-Jun-2024 19:39:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 17
+[30-Jun-2024 19:39:51 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 18
+[30-Jun-2024 19:39:51 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 20
+[30-Jun-2024 19:39:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 20
+[30-Jun-2024 19:39:51 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 21
+[30-Jun-2024 19:39:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-tbh.php on line 21
+[30-Jun-2024 19:45:32 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-edit.php on line 18
+[30-Jun-2024 19:45:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-edit.php on line 18
+[30-Jun-2024 19:47:12 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/ag-act-edit.php on line 19
+[30-Jun-2024 19:47:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/ag-act-edit.php on line 19
+[30-Jun-2024 19:49:07 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-edit.php on line 18
+[30-Jun-2024 19:49:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-edit.php on line 18
+[30-Jun-2024 19:49:32 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-edit.php on line 18
+[30-Jun-2024 19:49:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-edit.php on line 18
+[30-Jun-2024 19:49:45 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-edit.php on line 18
+[30-Jun-2024 19:49:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-edit.php on line 18
+[30-Jun-2024 19:50:53 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-edit.php on line 23
+[30-Jun-2024 19:50:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-edit.php on line 23
+[30-Jun-2024 19:53:41 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-edit.php on line 23
+[30-Jun-2024 19:53:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-edit.php on line 23
+[30-Jun-2024 19:53:50 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-edit.php on line 23
+[30-Jun-2024 19:53:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-edit.php on line 23
+[30-Jun-2024 19:54:56 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/ag-act-edit.php on line 19
+[30-Jun-2024 19:54:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/ag-act-edit.php on line 19
+[30-Jun-2024 19:58:34 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-edit.php on line 23
+[30-Jun-2024 19:58:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-edit.php on line 23
+[30-Jun-2024 19:58:58 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-edit.php on line 23
+[30-Jun-2024 19:58:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-edit.php on line 23
+[30-Jun-2024 19:59:06 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-edit.php on line 23
+[30-Jun-2024 19:59:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pr-act-edit.php on line 23
+[30-Jun-2024 20:56:06 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 2
+[30-Jun-2024 20:56:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/index.php:1) in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 4
+[30-Jun-2024 20:56:06 UTC] PHP Warning:  Undefined variable $username in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 10
+[30-Jun-2024 21:02:09 UTC] PHP Warning:  Undefined array key "foto" in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/ag-act-edit.php on line 19
+[30-Jun-2024 21:02:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/ag-act-edit.php on line 19
+[30-Jun-2024 21:27:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 2
+[30-Jun-2024 21:27:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/index.php:1) in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 4
+[30-Jun-2024 21:27:32 UTC] PHP Warning:  Undefined variable $username in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 10
+[30-Jun-2024 21:43:46 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 2
+[30-Jun-2024 21:43:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/index.php:1) in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 4
+[30-Jun-2024 21:43:46 UTC] PHP Warning:  Undefined variable $username in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 10
+[30-Jun-2024 21:44:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pendaftar-act-edit.php:20) in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pendaftar-act-edit.php on line 47
+[30-Jun-2024 21:44:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pendaftar-act-edit.php:20) in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pendaftar-act-edit.php on line 47
+[30-Jun-2024 21:44:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pendaftar-act-edit.php:20) in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pendaftar-act-edit.php on line 47
+[30-Jun-2024 21:45:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pendaftar-act-edit.php:20) in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pendaftar-act-edit.php on line 47
+[30-Jun-2024 21:45:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pendaftar-act-edit.php:20) in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pendaftar-act-edit.php on line 47
+[30-Jun-2024 21:48:22 UTC] PHP Warning:  Undefined variable $username in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 10
+[30-Jun-2024 21:48:23 UTC] PHP Warning:  Undefined variable $username in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 10
+[30-Jun-2024 22:02:21 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 2
+[30-Jun-2024 22:02:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/index.php:1) in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 4
+[30-Jun-2024 22:02:21 UTC] PHP Warning:  Undefined variable $username in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 10
+[30-Jun-2024 22:36:14 UTC] PHP Warning:  Undefined variable $username in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 10
+[30-Jun-2024 22:36:15 UTC] PHP Warning:  Undefined variable $username in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 10
+[30-Jun-2024 22:45:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 2
+[30-Jun-2024 22:45:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/index.php:1) in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 4
+[30-Jun-2024 22:45:43 UTC] PHP Warning:  Undefined variable $username in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 10
+[30-Jun-2024 22:46:44 UTC] PHP Warning:  Undefined variable $username in /home/arsipdok/public_html/demo.arsipdokumen.my.id/admin/page/pondasi/kepala.php on line 10

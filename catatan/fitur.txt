@@ -1,0 +1,37 @@
+// Dashboard
+Dashboard
+Admin Dashboard
+
+// Artikel
+Artikel
+Kategori Artikel
+Tag Artikel
+
+// Input
+Google Form
+
+// Landing Page
+Instagram
+Galeri
+Sosial Media
+Kontak
+    Daftar Kontak
+    Pesan
+    FAQ
+
+// Kepengurusan
+Kepengurusan
+Jabatan
+Sub Jabatan
+
+// Administrator
+Setting Halaman
+    Admin
+    Depan
+    Home
+User Access
+    Permission
+    Role
+Menu Management
+    Admin
+    Depan
